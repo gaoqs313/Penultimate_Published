@@ -8,7 +8,7 @@ This is the repository for scripts used in our Genome Biology paper "Splicing-ac
 
 ### Mouse Reference
 
-Version: Mus_musculus.GRCm38.98
+Version: Mus_musculus.GRCm38.98 \
 Script folder: 01_mouse_reference
 
 Extract eligible transcript
@@ -35,7 +35,7 @@ index_gff --index mm10.SE.gff3 indexed_SE_events/
 
 ### Human Reference
 
-Version: Homo_sapiens.GRCh38.98
+Version: Homo_sapiens.GRCh38.98 \
 Script folder: 02_human_reference
 
 Extract eligible transcript
