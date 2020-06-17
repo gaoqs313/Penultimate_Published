@@ -132,7 +132,7 @@ perl combine_human.pl
 Rscript human_stat.R
 ```
 
-Note: Fig 4B, S4D are schematic illustration using Inkscape
-      Fig 4C, S4C are generated using `plot_overlap_v2.R` in 03_liftover
-      Fig 3A, 4E are generated using `mouse_aa_stat.R` in 01_mouse_reference and `human_aa_stat.R` in 02_human_reference
+Note: Fig 4B, S4D are schematic illustration using Inkscape \
+      Fig 4C, S4C are generated using `plot_overlap_v2.R` in 03_liftover \
+      Fig 3A, 4E are generated using `mouse_aa_stat.R` in 01_mouse_reference and `human_aa_stat.R` in 02_human_reference \
       Fig 3D is a simple boxplot generated in 2015 ...
